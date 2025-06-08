@@ -17,6 +17,8 @@ Streamlit Interface: Provides real-time prediction and diagnostic reports.
 • Evaluation: Accuracy, Precision, Recall, and F1-score metrics were used to validate the model.  
 # Output
 The integrated system successfully identifies whether a subject is likely to have ASD based on facial expressions and survey data. Predictions are displayed through a user-friendly interface that includes confidence scores and diagnostic summaries, making it accessible even for non-experts. The use of a multimodal approach ensures higher diagnostic reliability and broader applicability.
+[![Watch the demo]("C:\Users\Sandhya\Desktop\Projects\Mini Project(3-2)\M3_EXECUTION-vedio.mp4")
+
 # Results
 Training Accuracy: 92%  
 Validation Accuracy: 84%  
