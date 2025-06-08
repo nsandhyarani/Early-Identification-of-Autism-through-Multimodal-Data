@@ -4,10 +4,10 @@
 This project proposes a non-invasive system for the early identification of Autism Spectrum Disorder (ASD) by integrating image and behavioral data. Traditional diagnostic methods are often time-consuming, subjective, and reliant on expert interpretation. This system addresses these limitations by utilizing thermal-like image features and psychological survey data processed via deep learning models, specifically Convolutional Neural Networks (CNN) and Artificial Neural Networks (ANN). The model is designed for rapid, scalable, and accurate screening of ASD, particularly in resource-limited environments.
 # Features
 Multimodal Inputs: Combines facial image data and behavioral survey responses.  
-Transfer Learning with VGG16: Efficient feature extraction from facial images.
-Artificial Neural Network (ANN): Processes survey-based psychological data.
-Fusion Model: Merges outputs from CNN and ANN for a more comprehensive diagnosis.
-Streamlit Interface: Provides real-time prediction and diagnostic reports.
+Transfer Learning with VGG16: Efficient feature extraction from facial images.  
+Artificial Neural Network (ANN): Processes survey-based psychological data.  
+Fusion Model: Merges outputs from CNN and ANN for a more comprehensive diagnosis.  
+Streamlit Interface: Provides real-time prediction and diagnostic reports.  
 # Methodology
 • Data Collection: Facial images sourced from Kaggle and behavioral data from UCL repositories.
 • Preprocessing: Image resizing, normalization, and augmentation; survey encoding and cleaning.
